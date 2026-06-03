@@ -1,9 +1,10 @@
 {
-  "id": "announcement-1",
-  "active": true,
-  "emoji": "",
-  "title": "I'd love to hear your feedback",
-  "message": "Let me know of any bugs or features your want at support@bestdaylabs.com",
-  "linkURL": null,
-  "expiresAt": null
+    "id": "2026-06-feedback",
+    "active": true,
+    "emoji": "💬",
+    "title": "We'd love your input",
+    "message": "Tell us what you want next in AxeLog.",
+    "feedback": true,
+    "feedbackPrompt": "Got a request? Tell us what you'd love to 
+  see."
 }
