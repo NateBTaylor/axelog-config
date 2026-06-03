@@ -1,9 +1,9 @@
 {
-  "id": "welcome-2026-06",
+  "id": "announcement-2026-06",
   "active": true,
-  "emoji": "🎸",
-  "title": "Welcome to AxeLog AI",
-  "message": "Your AI guitar coach is ready — start today's plan and build your streak!",
+  "emoji": "",
+  "title": "I'd love to hear your feedback",
+  "message": "Let me know of any bugs or features your want at support@bestdaylabs.com",
   "linkURL": null,
   "expiresAt": null
 }
